@@ -37,5 +37,5 @@ When user clicks a new tab on chrome, they will see;
 ![Screenshot 2024-09-04 134053](https://github.com/user-attachments/assets/7ab2c368-4231-4159-b5cc-1c9d89fe1776)
 ![Screenshot 2024-09-04 134120](https://github.com/user-attachments/assets/a3856bd6-b95e-4e2e-8daf-44b6282d2ba8)
 ![Screenshot 2024-09-04 134200](https://github.com/user-attachments/assets/a104ca72-f076-42a0-8bbb-9f201aa2ac57)
-![Screenshot 2024-09-04 134214](https://github.com/user-attachments/assets/be1835f5-a580-463e-943d-80402a6e58a1)
 ![Screenshot 2024-09-04 134143](https://github.com/user-attachments/assets/72a73642-7a4d-4dba-b383-d80dc629c0c1)
+![Screenshot 2024-09-04 134214](https://github.com/user-attachments/assets/be1835f5-a580-463e-943d-80402a6e58a1)
